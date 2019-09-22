@@ -30,6 +30,9 @@
         <activity android:name=".WebViewChat">
 
         </activity>
+        <activity android:name=".HospitalView">
+
+        </activity>
         <meta-data
             android:name="com.google.android.actions"
             android:resource="@xml/actions"/>
